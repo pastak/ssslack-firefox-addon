@@ -1,11 +1,13 @@
-# ssslack-chrome-extension
+# ssslack-Firefox-addon
 [![Build Status](https://travis-ci.org/uiureo/ssslack-chrome-extension.svg?branch=master)](https://travis-ci.org/uiureo/ssslack-chrome-extension)
 
 Currently in **beta**.
 
-ssslack is a service to share your slack logs.
+[ssslack](https://ssslack.parseapp.com/) is a service to share your slack logs.
 
 This service is heavily inspired by [iiirc](http://iiirc.org/).
+
+[Original Chrome Extension](https://github.com/uiureo/ssslack-chrome-extension) is developed by @uiureo.
 
 ## How to use
 You can use it in `/archives` and `/messages`
@@ -20,18 +22,21 @@ Click here and open in archives. Trigger this extension in archives.
 [![Gyazo](https://i.gyazo.com/7bcb1278564422687f70f7973d29f4f2.gif)](https://gyazo.com/7bcb1278564422687f70f7973d29f4f2)
 
 ## Install
-https://chrome.google.com/webstore/detail/ssslack/fibjgioojhpoiahdafiohlckbpanllgg
+
+comming soon in AMO.
+
+You can download xpi from https://www.dropbox.com/s/motqq2iaepntq7w/jid1-pcUMopPoDENJsg%40jetpack-0.0.0.xpi?dl=0
 
 ## Develop
-1. Clone this repo
-2. Build
-3. Drag & Drop the folder into `chrome://extensions` in Developer mode
+
+All PR is welcome :smile:
 
 ```
-git clone https://github.com/uiureo/ssslack-chrome-extension.git
-cd ssslack-chrome-extension
+git clone https://github.com/pastak/ssslack-firefox-addon.git
+cd ssslack-firefox-addon
 npm install
-npm run build
+jpm run # debug run firefox
+jpm xpi # build xpi
 ```
 
 ## Links
