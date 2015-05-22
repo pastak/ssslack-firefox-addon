@@ -23,9 +23,7 @@ Click here and open in archives. Trigger this extension in archives.
 
 ## Install
 
-comming soon in AMO.
-
-You can download xpi from https://www.dropbox.com/s/motqq2iaepntq7w/jid1-pcUMopPoDENJsg%40jetpack-0.0.0.xpi?dl=0
+https://addons.mozilla.org/en-US/firefox/addon/ssslack/
 
 ## Develop
 

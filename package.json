@@ -3,7 +3,7 @@
   "title": "ssslack",
   "id": "jid1-pcUMopPoDENJsg@jetpack",
   "author": "pastak",
-  "version": "0.0.0",
+  "version": "0.0.0-beta",
   "main": "src/main.js",
   "dependencies": {
     "urlbarbutton":"pastak/moz-urlbarbutton#support-jpm",
@@ -23,5 +23,9 @@
     "cross-domain-content": [
       "https://api.parse.com"
     ]
+  },
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
   }
 }
