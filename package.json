@@ -3,7 +3,7 @@
   "title": "ssslack",
   "id": "jid1-pcUMopPoDENJsg@jetpack",
   "author": "pastak",
-  "version": "0.0.0-beta",
+  "version": "0.0.1-beta",
   "main": "src/main.js",
   "dependencies": {
     "urlbarbutton":"pastak/moz-urlbarbutton#support-jpm",
