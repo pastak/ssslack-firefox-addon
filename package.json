@@ -17,7 +17,7 @@
     "browserify": "^9.0.8"
   },
   "scripts": {
-    "build": "browserify src/content.js > data/content.js"
+    "build": "browserify src/content.js > data/content.js  && jpm xpi"
   },
   "permissions": {
     "cross-domain-content": [
