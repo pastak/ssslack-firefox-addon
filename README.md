@@ -23,7 +23,9 @@ Click here and open in archives. Trigger this extension in archives.
 
 ## Install
 
-https://addons.mozilla.org/en-US/firefox/addon/ssslack/
+Now Rejected by AMO. ~~https://addons.mozilla.org/en-US/firefox/addon/ssslack/~~
+
+https://www.dropbox.com/s/motqq2iaepntq7w/jid1-pcUMopPoDENJsg%40jetpack-0.0.0.xpi?dl=0
 
 ## Develop
 
